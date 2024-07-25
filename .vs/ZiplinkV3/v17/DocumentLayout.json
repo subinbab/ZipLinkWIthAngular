@@ -1,0 +1,998 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\mapperprofile\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\mapperprofile\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7988F-3829-4A86-A63E-8E1D209480F1}|Ziplink.UserInterface\\Ziplink.UserInterface.csproj|solutionrelative:ziplink.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\ziplink.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\ziplink.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\data-display\\data-display.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\data-display\\data-display.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\data-display\\data-display.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\data-display\\data-display.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\data-display\\data-display.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\data-display\\data-display.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\data-display\\data-display.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\data-display\\data-display.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\url-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\url-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\url-client.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\url-client.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\shared\\url-client\\url-client.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.ui\\ziplink.ui.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78D05BB2-1DEA-433A-B674-A8573F3028E4}|Ziplink.UI\\Ziplink.UI.esproj|solutionrelative:ziplink.ui\\ziplink.ui.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\url\\readurl\\readurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\url\\readurl\\readurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\efrepository\\zipilinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\efrepository\\zipilinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\url\\createurl\\createurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\url\\createurl\\createurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\di\\addserivices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\di\\addserivices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\interfaces\\ireadurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\interfaces\\ireadurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\url\\updateurl\\updateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\url\\updateurl\\updateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\interfaces\\iupdateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\interfaces\\iupdateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\entities\\entityurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\entities\\entityurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\dtoentities\\entityurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\dtoentities\\entityurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\url\\deleteurl\\deleteurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\url\\deleteurl\\deleteurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\url\\createurl\\createurlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\url\\createurl\\createurlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\interfaces\\icreateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\interfaces\\icreateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\interfaces\\ideleteurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\interfaces\\ideleteurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\efrepository\\iziplinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\efrepository\\iziplinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\ziplink.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\ziplink.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6316F8F-D766-4123-AC68-461AEBB8435E}|Ziplink.Application\\Ziplink.Application.csproj|solutionrelative:ziplink.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\ziplink.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\ziplink.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7C7872A-BB15-4680-AB27-42205D4327D8}|Ziplink.API\\Ziplink.API.csproj|solutionrelative:ziplink.api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\zipllink.core\\zipllink.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99994760-F49A-47F1-8E48-B6071C36D44A}|Zipllink.Core\\Zipllink.Core.csproj|solutionrelative:zipllink.core\\zipllink.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|c:\\data\\assignment\\url-shortnening-angular\\ziplinkwithangular\\ziplinkv3\\ziplink.infrastructure\\migrations\\20240724184447_initiacreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80F5B0-B1A6-4EE0-A9D1-A22A56AF6D3C}|Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj|solutionrelative:ziplink.infrastructure\\migrations\\20240724184447_initiacreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ziplink.UserInterface\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:59:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Ziplink.UserInterface\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-25T05:57:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ziplink.UserInterface\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:56:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ziplink.UserInterface\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:56:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ziplink.UserInterface\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:43:09.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ziplink.UserInterface\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:27:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ziplink.UserInterface\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:25:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Services\\Services.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Services\\Services.cs",
+              "RelativeToolTip": "Ziplink.UserInterface\\Services\\Services.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:24:00.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Ziplink.UserInterface\\Program.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UserInterface\\Program.cs",
+              "RelativeToolTip": "Ziplink.UserInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:23:06.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "data-display.component.css",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.css",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\data-display\\data-display.component.css",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.css",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\data-display\\data-display.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-25T05:16:27.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "data-display.component.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\data-display\\data-display.component.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\data-display\\data-display.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-25T05:15:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "data-display.component.spec.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.spec.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\data-display\\data-display.component.spec.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.spec.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\data-display\\data-display.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-25T05:14:56.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "data-display.component.html",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.html",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\data-display\\data-display.component.html",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\data-display\\data-display.component.html",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\data-display\\data-display.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-25T05:14:55.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-25T05:12:56.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "url-client.service.spec.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\url-client.service.spec.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\url-client.service.spec.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\url-client.service.spec.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\url-client.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T23:08:34.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.css",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-25T04:24:40.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\home\\home.component.spec.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.spec.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\home\\home.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-25T04:24:27.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "url-client.service.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\url-client.service.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\url-client.service.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\url-client.service.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\url-client.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T23:08:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "url-client.component.html",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.html",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.html",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.html",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-24T23:00:41.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "url-client.component.spec.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.spec.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.spec.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.spec.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:58:25.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "url-client.component.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\shared\\url-client\\url-client.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:58:30.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ziplink.UI.esproj",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\Ziplink.UI.esproj",
+              "RelativeDocumentMoniker": "Ziplink.UI\\Ziplink.UI.esproj",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\Ziplink.UI.esproj",
+              "RelativeToolTip": "Ziplink.UI\\Ziplink.UI.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-24T22:37:58.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\environments\\environment.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\environments\\environment.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\environments\\environment.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:31:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "environment.development.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\environments\\environment.development.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\environments\\environment.development.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\environments\\environment.development.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\environments\\environment.development.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:27:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\index.html",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\index.html",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\index.html",
+              "RelativeToolTip": "Ziplink.UI\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-24T22:14:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\home\\home.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:12:02.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:11:44.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.module.ts",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T22:11:35.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\home\\home.component.css",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T22:09:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-24T22:09:18.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "Ziplink.UI\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.UI\\src\\app\\app.component.html",
+              "RelativeToolTip": "Ziplink.UI\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-24T22:07:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddSerivices.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\DI\\AddSerivices.cs",
+              "RelativeDocumentMoniker": "Ziplink.API\\DI\\AddSerivices.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\DI\\AddSerivices.cs",
+              "RelativeToolTip": "Ziplink.API\\DI\\AddSerivices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:56:14.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUpdateURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IUpdateURL.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Interfaces\\IUpdateURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IUpdateURL.cs",
+              "RelativeToolTip": "Zipllink.Core\\Interfaces\\IUpdateURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:29:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IReadURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IReadURL.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Interfaces\\IReadURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IReadURL.cs",
+              "RelativeToolTip": "Zipllink.Core\\Interfaces\\IReadURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:25:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICreateURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\ICreateURL.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Interfaces\\ICreateURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\ICreateURL.cs",
+              "RelativeToolTip": "Zipllink.Core\\Interfaces\\ICreateURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:12:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDeleteURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IDeleteURL.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Interfaces\\IDeleteURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\IDeleteURL.cs",
+              "RelativeToolTip": "Zipllink.Core\\Interfaces\\IDeleteURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:11:21.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\Class1.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Interfaces\\Class1.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Interfaces\\Class1.cs",
+              "RelativeToolTip": "Zipllink.Core\\Interfaces\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:11:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateURLValidator.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\CreateURL\\CreateURLValidator.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\URL\\CreateURL\\CreateURLValidator.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\CreateURL\\CreateURLValidator.cs",
+              "RelativeToolTip": "Ziplink.Application\\URL\\CreateURL\\CreateURLValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:54:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\UpdateURL\\UpdateURL.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\URL\\UpdateURL\\UpdateURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\UpdateURL\\UpdateURL.cs",
+              "RelativeToolTip": "Ziplink.Application\\URL\\UpdateURL\\UpdateURL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:54:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReadURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\ReadURL\\ReadURL.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\URL\\ReadURL\\ReadURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\ReadURL\\ReadURL.cs",
+              "RelativeToolTip": "Ziplink.Application\\URL\\ReadURL\\ReadURL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAywBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:54:04.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\DeleteURL\\DeleteURL.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\URL\\DeleteURL\\DeleteURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\DeleteURL\\DeleteURL.cs",
+              "RelativeToolTip": "Ziplink.Application\\URL\\DeleteURL\\DeleteURL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:53:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateURL.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\CreateURL\\CreateURL.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\URL\\CreateURL\\CreateURL.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\URL\\CreateURL\\CreateURL.cs",
+              "RelativeToolTip": "Ziplink.Application\\URL\\CreateURL\\CreateURL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:53:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Ziplink.Application.csproj",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\Ziplink.Application.csproj",
+              "RelativeDocumentMoniker": "Ziplink.Application\\Ziplink.Application.csproj",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\Ziplink.Application.csproj",
+              "RelativeToolTip": "Ziplink.Application\\Ziplink.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T19:51:29.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Ziplink.Application\\Class1.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Application\\Class1.cs",
+              "RelativeToolTip": "Ziplink.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:51:24.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IZiplinkRepository.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\EFRepository\\IZiplinkRepository.cs",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\EFRepository\\IZiplinkRepository.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\EFRepository\\IZiplinkRepository.cs",
+              "RelativeToolTip": "Ziplink.Infrastructure\\EFRepository\\IZiplinkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:16:46.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ZipilineRepository.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\EFRepository\\ZipilineRepository.cs",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\EFRepository\\ZipilineRepository.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\EFRepository\\ZipilineRepository.cs",
+              "RelativeToolTip": "Ziplink.Infrastructure\\EFRepository\\ZipilineRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAawEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:15:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "Ziplink.API\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "Ziplink.API\\Controllers\\UrlController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:56:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\log4net.config",
+              "RelativeDocumentMoniker": "Ziplink.API\\log4net.config",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\log4net.config",
+              "RelativeToolTip": "Ziplink.API\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-24T18:55:35.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\MapperProfile\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Ziplink.API\\MapperProfile\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\MapperProfile\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Ziplink.API\\MapperProfile\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:50:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EntityUrlDTO.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\DTOEntities\\EntityUrlDTO.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\DTOEntities\\EntityUrlDTO.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\DTOEntities\\EntityUrlDTO.cs",
+              "RelativeToolTip": "Zipllink.Core\\DTOEntities\\EntityUrlDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:47:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240724184447_InitiaCreate.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Migrations\\20240724184447_InitiaCreate.cs",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\Migrations\\20240724184447_InitiaCreate.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Migrations\\20240724184447_InitiaCreate.cs",
+              "RelativeToolTip": "Ziplink.Infrastructure\\Migrations\\20240724184447_InitiaCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:44:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ziplink.API\\appsettings.json",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\appsettings.json",
+              "RelativeToolTip": "Ziplink.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T18:17:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ziplink.API\\Program.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Program.cs",
+              "RelativeToolTip": "Ziplink.API\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwDMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:10:37.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ziplink.API.csproj",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Ziplink.API.csproj",
+              "RelativeDocumentMoniker": "Ziplink.API\\Ziplink.API.csproj",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.API\\Ziplink.API.csproj",
+              "RelativeToolTip": "Ziplink.API\\Ziplink.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T18:10:33.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EntityUrl.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Entities\\EntityUrl.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Entities\\EntityUrl.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Entities\\EntityUrl.cs",
+              "RelativeToolTip": "Zipllink.Core\\Entities\\EntityUrl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:04:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Ziplink.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj",
+              "RelativeToolTip": "Ziplink.Infrastructure\\Ziplink.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T18:00:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ZiplinkDbContext.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\ZiplinkDbContext.cs",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\ZiplinkDbContext.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\ZiplinkDbContext.cs",
+              "RelativeToolTip": "Ziplink.Infrastructure\\ZiplinkDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:01:07.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Zipllink.Core.csproj",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Zipllink.Core.csproj",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Zipllink.Core.csproj",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Zipllink.Core.csproj",
+              "RelativeToolTip": "Zipllink.Core\\Zipllink.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T17:56:27.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Ziplink.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Ziplink.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Ziplink.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:54:34.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Zipllink.Core\\Class1.cs",
+              "ToolTip": "C:\\Data\\Assignment\\URL-Shortnening-Angular\\ZipLinkWIthAngular\\ZiplinkV3\\Zipllink.Core\\Class1.cs",
+              "RelativeToolTip": "Zipllink.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:54:12.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+﻿ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" />
+
+<div class="container-fluid d-flex justify-content-center align-items-center">
+    <h1>ZIPLINK</h1>
+</div>
+<main class="container-fluid d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="row">
+
+        <div class="">
+            <form action="/home/addURL" class="border p-4 rounded bg-light shadow shortenUrlForm">
+                <div class="form-group">
+                    @*                    <label for="url">URL</label>*@
+                    <input type="text" class="form-control" id="url" name="url" placeholder="Enter URL">
+                </div>
+                <button type="submit" class="btn btn-primary">ZipLink</button>
+            </form>
+            <div class="mt-3">
+
+                <p class="generatedUrl"></p>
+                <div class="loader" id="loader"></div>
+            </div>
+        </div>
+    </div>
+</main>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css"></script>
+<script>
+    $(document).ready(function () {
+
+        $(".shortenUrlForm").submit(function (e) {
+            e.preventDefault();
+            var action = $(this).attr("action"); // Get form action URL
+            $.ajax({
+                type: "POST",
+                url: action,
+                crossDomain: true,
+                data: new FormData(this),
+                dataType: "json",
+                processData: false,
+                contentType: false,
+                headers: {
+                    "Accept": "application/json",
+
+                },
+                beforeSend: function () {
+                    $(".generatedUrl").css("display", "none")
+                    startLoader(); // Start loader before sending the request
+                },
+                success: function (success) {
+                    console.log("success", success)
+                    $(".generatedUrl").html(success.shortenurl);
+                },
+                complete: function (success) {
+                    setTimeout(function () {
+                        $('#loader').toggle();
+                        $('#loader').css('width', '0').hide();
+                        setTimeout(function () {
+                            $(".generatedUrl").toggle()
+                        }, 100)
+                    }, 2100);// Stop loader after the request is complete
+
+                },
+                erro: function (err) {
+                    console.log(err)
+                }
+
+            })
+            // Function to show and start the loader animation
+
+        })
+    })
+    function startLoader() {
+        $('#loader').toggle();
+        $('#loader').css('width', '0').show();
+        $('#loader::before').css('animation', 'none'); // Reset animation
+        setTimeout(function () {
+            $('#loader').css({
+                'width': '100%',
+                'transition': 'width 1s linear'
+            });
+        }, 10); // Delay to ensure the animation starts
+    }
+
+    // Function to stop the loader animation
+    function stopLoader() {
+        setTimeout(function () {
+            $('#loader').toggle();
+            $('#loader').css('width', '0').hide();
+        }, 2100); // Slight delay to ensure the loader completes before hiding
+    }
+
+</script>
+
+        <style>
+            /* Set padding to keep content from hitting the edges */
+
+
+        </style>

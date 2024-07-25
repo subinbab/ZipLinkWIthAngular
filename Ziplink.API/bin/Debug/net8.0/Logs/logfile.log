@@ -1,0 +1,130 @@
+2024-07-25 02:32:12,138 [5] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 02:32:12,151 [5] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://google.com
+2024-07-25 02:40:59,220 [9] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 02:40:59,236 [9] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://google.com
+2024-07-25 02:40:59,391 [11] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 02:42:16,852 [15] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 02:42:16,852 [15] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://google.com
+2024-07-25 02:42:16,990 [19] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 02:48:00,082 [10] ERROR Ziplink.Application.URL.ReadURL.ReadURL - System.InvalidOperationException: The expression 'Convert(c.generatedUrl.Equals(__data_url_0), Object)' is invalid inside an 'Include' operation, since it does not represent a property access: 't => t.MyProperty'. To target navigations declared on derived types, use casting ('t => ((Derived)t).MyProperty') or the 'as' operator ('t => (t as Derived).MyProperty'). Collection navigation access can be filtered by composing Where, OrderBy(Descending), ThenBy(Descending), Skip or Take operations. For more information on including related data, see https://go.microsoft.com/fwlink/?LinkID=746393.
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.<ProcessInclude>g__ExtractIncludeFilter|36_0(Expression currentExpression, Expression includeExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.ProcessInclude(NavigationExpansionExpression source, Expression expression, Boolean thenInclude, Boolean setLoaded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.Expand(Expression query)
+   at Microsoft.EntityFrameworkCore.Query.QueryTranslationPreprocessor.Process(Expression query)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass9_0`1.<Execute>b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.IncludableQueryable`2.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Ziplink.Application.URL.ReadURL.ReadURL.HandleByUrl(EntityUrlDTO data) in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Application\URL\ReadURL\ReadURL.cs:line 30
+2024-07-25 02:49:05,219 [10] ERROR Ziplink.Application.URL.ReadURL.ReadURL - System.InvalidOperationException: The expression 'Convert(c.generatedUrl.Equals(__data_url_0), Object)' is invalid inside an 'Include' operation, since it does not represent a property access: 't => t.MyProperty'. To target navigations declared on derived types, use casting ('t => ((Derived)t).MyProperty') or the 'as' operator ('t => (t as Derived).MyProperty'). Collection navigation access can be filtered by composing Where, OrderBy(Descending), ThenBy(Descending), Skip or Take operations. For more information on including related data, see https://go.microsoft.com/fwlink/?LinkID=746393.
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.<ProcessInclude>g__ExtractIncludeFilter|36_0(Expression currentExpression, Expression includeExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.ProcessInclude(NavigationExpansionExpression source, Expression expression, Boolean thenInclude, Boolean setLoaded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.NavigationExpandingExpressionVisitor.Expand(Expression query)
+   at Microsoft.EntityFrameworkCore.Query.QueryTranslationPreprocessor.Process(Expression query)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass9_0`1.<Execute>b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.IncludableQueryable`2.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Ziplink.Application.URL.ReadURL.ReadURL.HandleByUrl(EntityUrlDTO data) in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Application\URL\ReadURL\ReadURL.cs:line 30
+2024-07-25 02:52:04,834 [5] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 02:56:12,522 [14] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 02:56:12,562 [14] ERROR Ziplink.Application.URL.ReadURL.ReadURL - AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EntityUrl -> EntityUrlDTO
+Zipllink.Core.Entities.EntityUrl -> Zipllink.Core.DTOEntities.EntityUrlDTO
+   at lambda_method51(Closure, Object, EntityUrlDTO, ResolutionContext)
+   at Ziplink.Application.URL.ReadURL.ReadURL.HandleByUrl(EntityUrlDTO data) in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Application\URL\ReadURL\ReadURL.cs:line 33
+2024-07-25 02:57:31,511 [19] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 03:01:49,082 [13] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:10:42,017 [9] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:17:05,797 [19] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:17:05,999 [19] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:17:12,871 [25] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:19:55,327 [20] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:19:55,756 [26] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:19:59,559 [26] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:20:17,551 [26] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:21:09,462 [3] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:22:28,370 [10] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:24:08,781 [7] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:29:08,771 [15] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 04:31:17,143 [13] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 09:57:44,259 [36] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 10:21:40,644 [141] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 10:22:47,899 [140] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 10:30:24,033 [17] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 10:30:24,033 [17] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://www.socxo.com/careers/dotnet-fullstack/
+2024-07-25 10:30:24,262 [142] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 10:36:38,532 [132] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 10:36:38,533 [132] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://www.socxo.com/careers/dotnet-fullstack/
+2024-07-25 10:36:38,655 [145] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 10:38:16,012 [5] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 10:38:16,012 [5] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://www.socxo.com/careers/dotnet-fullstack/
+2024-07-25 10:38:16,065 [140] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 10:38:31,775 [13] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 10:38:31,775 [13] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url https://elements.envato.com/brighton-business-consulting-service-template-ZNYJK6D
+2024-07-25 10:38:31,843 [5] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 10:39:03,882 [145] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL
+2024-07-25 11:24:52,015 [3] DEBUG Ziplink.Application.URL.CreateURL.CreateURL - Created URL
+2024-07-25 11:24:52,031 [3] DEBUG Ziplink.API.Controllers.UrlController - User Request from ::1 ip address to shorten url ozG42O8VdZWQnYD12hUzcLWFq8Y3M6Kgw--ODOl-loLGpn5jZGv9vE9yz.ouKxyUsJ703yysu9klAt9sY6XXgmivfp-nFUN6zeiWQz9Z6acRxVIjxdoMeylPcTaGstXGlyln4-OeofSNkqXbMnA.3xp2qBN.OCKnGKKehGkNZZOtRKUkQAGnlqtEsdhNmZsVuMQEMDpJMFgXKzuhXBAtVYzomVYsCRydqiCWzgxRnt/]6DI<mjU/KAY.C1X;pYSb!f?*gM"uWJvyz@=JZ)d%aC^$4[j
+2024-07-25 11:24:52,205 [17] ERROR Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1[[Zipllink.Core.Entities.EntityUrl, Zipllink.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] - log4net:Error in post controller
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ZiplinkDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ziplink.Infrastructure.EFRepository.ZipilinkRepository`1.Save() in C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\EFRepository\ZipilineRepository.cs:line 133
+2024-07-25 11:25:19,633 [3] DEBUG Ziplink.Application.URL.ReadURL.ReadURL - Created URL

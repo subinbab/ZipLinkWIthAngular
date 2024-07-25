@@ -1,0 +1,11 @@
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\bin\Debug\net8.0\Zipllink.Core.deps.json
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\bin\Debug\net8.0\Zipllink.Core.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\bin\Debug\net8.0\Zipllink.Core.pdb
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.AssemblyInfoInputs.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.AssemblyInfo.cs
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.csproj.CoreCompileInputs.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\refint\Zipllink.Core.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\Zipllink.Core.pdb
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Zipllink.Core\obj\Debug\net8.0\ref\Zipllink.Core.dll

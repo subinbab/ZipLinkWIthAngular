@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Ziplink.API\\Ziplink.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Ziplink.UserInterface\\Ziplink.UserInterface.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.AssemblyInfoInputs.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.AssemblyInfo.cs
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Ziplink.Infrastructure.deps.json
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Ziplink.Infrastructure.runtimeconfig.json
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Ziplink.Infrastructure.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Ziplink.Infrastructure.pdb
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Zipllink.Core.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\bin\Debug\net8.0\Zipllink.Core.pdb
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.csproj.AssemblyReference.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink..5B15A878.Up2Date
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\refint\Ziplink.Infrastructure.dll
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.pdb
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\Ziplink.Infrastructure.genruntimeconfig.cache
+C:\Data\Assignment\URL-Shortnening-Angular\ZipLinkWIthAngular\ZiplinkV3\Ziplink.Infrastructure\obj\Debug\net8.0\ref\Ziplink.Infrastructure.dll
